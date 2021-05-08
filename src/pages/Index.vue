@@ -69,6 +69,7 @@
         <iframe
           width="100%"
           :height="halfheight"
+          allow="autoplay"
           frameborder="0"
           src="https://k100streymi.mbl.is/p2p/webcam0">
         </iframe>
